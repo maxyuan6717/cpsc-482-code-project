@@ -4,7 +4,7 @@
 
 https://cseweb.ucsd.edu/~jmcauley/datasets.html#multi_aspect
 
-### Direct link to faw file:
+### Direct link to raw file:
 
 https://drive.google.com/file/d/1SHOys2fSU-MnZk-l47fVm5j_J-_JeW_w/view?usp=share_link
 
