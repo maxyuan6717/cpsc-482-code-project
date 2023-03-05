@@ -13,3 +13,7 @@ Raw file is improperly formatted, so run the first couple cells of the ipynb not
 ### Direct link to fixed file:
 
 https://drive.google.com/file/d/1lEhyvrwTb2Rz31cySTXE42E3kQk0w19f/view?usp=share_link
+
+### LSTM model inspiration
+
+https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
